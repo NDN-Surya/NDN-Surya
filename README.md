@@ -1,16 +1,14 @@
-## Hi there 👋
+[![MasterHead](https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg)](https://NDN-Surya.io)
+<h1 align="center">Hi 👋, I'm NDN Surya</h1>
+<h3 align="center">𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 with a passion for uncovering hidden patterns in data to drive strategic decision-making. Possessing a strong foundation in 𝐦𝐚𝐭𝐡𝐬 𝐚𝐧𝐝 𝐬𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬, I am proficient in applying 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬 𝐚𝐧𝐝 𝐝𝐚𝐭𝐚 𝐦𝐢𝐧𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 to extract actionable insights. Skilled in Python for efficient 𝐝𝐚𝐭𝐚 𝐦𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧, 𝐞𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐯𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧. Adept at transforming complex data into compelling narratives. Successfully developed credit risk and predictive premium models for the 𝙛𝙞𝙣𝙖𝙣𝙘𝙞𝙖𝙡 𝙖𝙣𝙙 𝙝𝙚𝙖𝙡𝙩𝙝𝙘𝙖𝙧𝙚 𝙞𝙣𝙙𝙪𝙨𝙩𝙧𝙮. Demonstrated proficiency in applying 𝐚𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐦𝐚𝐜𝐡𝐢𝐧𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬, staying at the forefront of 𝗶𝗻𝗱𝘂𝘀𝘁𝗿𝘆 𝘁𝗿𝗲𝗻𝗱𝘀, and leveraging 𝐝𝐨𝐦𝐚𝐢𝐧 𝐤𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 to drive actionable insights. Demonstrated exceptional 𝐝𝐚𝐭𝐚 𝐬𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠 abilities by crafting impactful visualizations and delivering engaging presentations. Demonstrated strong project management, teamwork, leadership, and time management skills by successfully 𝗰𝗼𝗼𝗿𝗱𝗶𝗻𝗮𝘁𝗶𝗻𝗴 and executing the 𝗹𝗮𝗿𝗴𝗲-𝘀𝗰𝗮𝗹𝗲 𝗔𝗟𝗖 𝟮𝟬𝟮𝟯 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗠𝗮𝘁𝗵𝘀 Fests while simultaneously serving as the Master of Ceremonies. This experience showcased my ability to balance multiple responsibilities, including academic commitments, highlighting my 𝗺𝘂𝗹𝘁𝗶𝘁𝗮𝘀𝗸𝗶𝗻𝗴 𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀. Dedicated to 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠, I have successfully employed creative techniques, including a 𝐇𝐚𝐫𝐫𝐲 𝐏𝐨𝐭𝐭𝐞𝐫-𝐭𝐡𝐞𝐦𝐞𝐝 𝐚𝐩𝐩𝐫𝐨𝐚𝐜𝐡, to illustrate statistical concepts like measures of central tendency and dispersion. This demonstrates my ability to 𝐭𝐡𝐢𝐧𝐤 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥𝐥𝐲, develop 𝐞𝐧𝐠𝐚𝐠𝐢𝐧𝐠 𝐝𝐚𝐭𝐚 𝐬𝐭𝐨𝐫𝐢𝐞𝐬, and effectively 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐱 𝐝𝐚𝐭𝐚 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐭𝐨 𝐝𝐢𝐯𝐞𝐫𝐬𝐞 𝐚𝐮𝐝𝐢𝐞𝐧𝐜𝐞𝐬, also showcasing my strong foundation in statistics. Interests: Traveling, Reading (Currently reading The Alchemist ) Committed to fostering innovation and creativity to develop groundbreaking data-driven solutions. I personally believe data science is an art and science, and I am eager to apply my skills to drive business growth and solve complex problems</h3>
 
-<!--
-**NDN-Surya/NDN-Surya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif")
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ndnsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndnsurya" height="30" width="40" /></a>
+<a href="https://kaggle.com/ndnsurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ndnsurya" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
