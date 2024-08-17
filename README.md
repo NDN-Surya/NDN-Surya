@@ -1,8 +1,10 @@
 [![MasterHead](https://www.fsm.ac.in/blog/wp-content/uploads/2022/07/FUqHEVVUsAAbZB0-1024x580.jpg)](https://NDN-Surya.io)
 <h1 align="center">Hi 👋, I'm NDN Surya</h1>
-<h3 align="center">𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 with a passion for uncovering hidden patterns in data to drive strategic decision-making. </h3>
-
+<h3 align="center">𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 with a passion for uncovering hidden patterns in data to drive strategic decision-making.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*dBPwuC3Dh2WWFFYTwogTMA.gif">
+
+
+- 📫 How to reach me **suryandn1618@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
